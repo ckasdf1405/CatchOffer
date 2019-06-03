@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /**
  * 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
+ * 该打印顺序称作广度遍历，又名层次遍历
  */
 public class PrintTreeNodeTopToBottom {
 
